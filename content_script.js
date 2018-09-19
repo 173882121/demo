@@ -21,16 +21,16 @@ window.onload = function () {
     var username = document.getElementsByName("DDDDD");
     
         for (let i = 0; i < username.length; i++) {
-            username[i].value = "1502303020";
-             /* username[i].value = "jwcz";*/
+            username[i].value = "用户名";
+
         }
     
 
     
         var pwd = document.getElementsByName("upass");
         for (let j  = 0;j < pwd.length; j++) {
-            pwd[j].value = "195211";
-             /* pwd[j].value = "ROSE626492";*/
+            pwd[j].value = "密码";
+       
         }
     
    
